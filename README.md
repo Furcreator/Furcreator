@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Daniil 👋
 
-- 🔭 I’m currently studying **Full-Stack development**
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **dan.mikhnevich20@gmail.com**
